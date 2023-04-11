@@ -1,0 +1,11 @@
+jcmarker.c:468:1:write_marker_byte	3
+jcmarker.c:620:1:write_file_trailer	5
+jcmarker.c:456:1:write_marker_header	10
+jcmarker.c:285:1:emit_sof	31
+jcmarker.c:186:1:emit_dht	21
+jcmarker.c:145:1:emit_dqt	23
+jcmarker.c:634:1:write_tables_only	15
+jcmarker.c:512:1:write_frame_header	35
+jcmarker.c:576:1:write_scan_header	94
+jcmarker.c:487:1:write_file_header	81
+jcmarker.c:663:1:jinit_marker_writer	1

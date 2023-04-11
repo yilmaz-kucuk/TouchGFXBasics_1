@@ -1,0 +1,4 @@
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:17:18:virtual void ModelListener::setADC(int)	0	static
+E:/Projeler/TouchGFX/Adc/TouchGFX/gui/src/model/Model.cpp:10:7:long int map(long int, long int, long int, long int, long int)	0	static
+E:/Projeler/TouchGFX/Adc/TouchGFX/gui/src/model/Model.cpp:16:1:Model::Model()	0	static
+E:/Projeler/TouchGFX/Adc/TouchGFX/gui/src/model/Model.cpp:21:6:void Model::tick()	16	static

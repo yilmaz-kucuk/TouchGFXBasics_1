@@ -1,0 +1,4 @@
+ModelListener.hpp:17:18:virtual void ModelListener::setADC(int)	1
+Model.cpp:10:7:long int map(long int, long int, long int, long int, long int)	1
+Model.cpp:16:1:Model::Model()	1
+Model.cpp:21:6:void Model::tick()	2

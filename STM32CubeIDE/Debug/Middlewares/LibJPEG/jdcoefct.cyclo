@@ -1,0 +1,8 @@
+jdcoefct.c:108:1:start_input_pass	3
+jdcoefct.c:230:1:dummy_consume_data	1
+jdcoefct.c:246:1:consume_data	25
+jdcoefct.c:317:1:decompress_data	13
+jdcoefct.c:120:1:start_output_pass	17
+jdcoefct.c:148:1:decompress_onepass	20
+jdcoefct.c:463:1:decompress_smooth_data	55
+jdcoefct.c:678:1:jinit_d_coef_controller	6

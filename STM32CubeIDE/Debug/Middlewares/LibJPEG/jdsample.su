@@ -1,0 +1,8 @@
+E:/Projeler/TouchGFX/Adc/Middlewares/Third_Party/LibJPEG/source/jdsample.c:70:1:start_pass_upsample	0	static
+E:/Projeler/TouchGFX/Adc/Middlewares/Third_Party/LibJPEG/source/jdsample.c:90:1:sep_upsample	64	static
+E:/Projeler/TouchGFX/Adc/Middlewares/Third_Party/LibJPEG/source/jdsample.c:158:1:fullsize_upsample	0	static
+E:/Projeler/TouchGFX/Adc/Middlewares/Third_Party/LibJPEG/source/jdsample.c:171:1:noop_upsample	0	static
+E:/Projeler/TouchGFX/Adc/Middlewares/Third_Party/LibJPEG/source/jdsample.c:234:1:h2v1_upsample	16	static
+E:/Projeler/TouchGFX/Adc/Middlewares/Third_Party/LibJPEG/source/jdsample.c:190:1:int_upsample	56	static
+E:/Projeler/TouchGFX/Adc/Middlewares/Third_Party/LibJPEG/source/jdsample.c:262:1:h2v2_upsample	40	static
+E:/Projeler/TouchGFX/Adc/Middlewares/Third_Party/LibJPEG/source/jdsample.c:294:1:jinit_upsampler	40	static

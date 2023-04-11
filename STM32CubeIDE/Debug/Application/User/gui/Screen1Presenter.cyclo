@@ -1,0 +1,8 @@
+Screen1Presenter.hpp:28:13:Screen1Presenter::~Screen1Presenter()	1
+Screen1Presenter.cpp:10:6:virtual void Screen1Presenter::activate()	1
+Screen1Presenter.cpp:20:6:virtual void Screen1Presenter::setADC(int)	1
+Screen1Presenter.hpp:28:13:virtual Screen1Presenter::~Screen1Presenter()	1
+Screen1Presenter.hpp:28:13:virtual void* Screen1Presenter::_ZThn4_N16Screen1PresenterD1Ev()	1
+Screen1Presenter.hpp:28:13:virtual void* Screen1Presenter::_ZThn4_N16Screen1PresenterD0Ev()	1
+Screen1Presenter.hpp:29:18:virtual void Screen1Presenter::_ZThn4_N16Screen1Presenter6setADCEi(int)	1
+Screen1Presenter.cpp:4:1:Screen1Presenter::Screen1Presenter(Screen1View&)	1

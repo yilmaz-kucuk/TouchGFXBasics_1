@@ -1,0 +1,8 @@
+jdatasrc.c:46:1:init_source	1
+jdatasrc.c:59:1:init_mem_source	1
+jdatasrc.c:125:1:fill_mem_input_buffer	1
+jdatasrc.c:159:1:skip_input_data	4
+jdatasrc.c:99:1:fill_input_buffer	3
+jdatasrc.c:200:1:term_source	1
+jdatasrc.c:213:1:jpeg_stdio_src	2
+jdatasrc.c:252:1:jpeg_mem_src	4

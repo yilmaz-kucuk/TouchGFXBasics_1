@@ -1,0 +1,9 @@
+jcsample.c:84:1:start_pass_downsample	1
+jcsample.c:123:1:sep_downsample	3
+jcsample.c:150:1:int_downsample	12
+jcsample.c:224:1:h2v1_downsample	8
+jcsample.c:261:1:h2v2_downsample	8
+jcsample.c:305:1:h2v2_smooth_downsample	8
+jcsample.c:406:1:fullsize_smooth_downsample	8
+jcsample.c:199:1:fullsize_downsample	4
+jcsample.c:478:1:jinit_downsampler	15

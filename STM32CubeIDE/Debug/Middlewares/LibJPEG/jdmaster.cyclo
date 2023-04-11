@@ -1,0 +1,6 @@
+jdmaster.c:412:1:prepare_for_output_pass	13
+jdmaster.c:472:1:finish_output_pass	2
+jdmaster.c:45:1:use_merged_upsample.part.0	12
+jdmaster.c:88:1:jpeg_calc_output_dimensions	23
+jdmaster.c:489:1:jpeg_new_colormap	5
+jdmaster.c:517:1:jinit_master_decompress	27

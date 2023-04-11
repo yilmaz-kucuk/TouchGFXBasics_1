@@ -1,0 +1,9 @@
+jdarith.c:635:1:start_pass	38
+jdarith.c:190:1:process_restart	10
+jdarith.c:106:1:arith_decode	19
+jdarith.c:503:1:decode_mcu	30
+jdarith.c:431:1:decode_mcu_AC_refine	16
+jdarith.c:398:1:decode_mcu_DC_refine	7
+jdarith.c:321:1:decode_mcu_AC_first	18
+jdarith.c:242:1:decode_mcu_DC_first	16
+jdarith.c:745:1:jinit_arith_decoder	4

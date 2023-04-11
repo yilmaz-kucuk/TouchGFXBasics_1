@@ -1,0 +1,15 @@
+stm32h7xx_hal_msp.c:67:6:HAL_MspInit	1
+stm32h7xx_hal_msp.c:90:6:HAL_ADC_MspInit	3
+stm32h7xx_hal_msp.c:142:6:HAL_ADC_MspDeInit	2
+stm32h7xx_hal_msp.c:170:6:HAL_CRC_MspInit	2
+stm32h7xx_hal_msp.c:192:6:HAL_CRC_MspDeInit	2
+stm32h7xx_hal_msp.c:214:6:HAL_DMA2D_MspInit	2
+stm32h7xx_hal_msp.c:239:6:HAL_DMA2D_MspDeInit	2
+stm32h7xx_hal_msp.c:264:6:HAL_JPEG_MspInit	6
+stm32h7xx_hal_msp.c:348:6:HAL_JPEG_MspDeInit	2
+stm32h7xx_hal_msp.c:377:6:HAL_LTDC_MspInit	3
+stm32h7xx_hal_msp.c:489:6:HAL_LTDC_MspDeInit	2
+stm32h7xx_hal_msp.c:557:6:HAL_QSPI_MspInit	3
+stm32h7xx_hal_msp.c:650:6:HAL_QSPI_MspDeInit	2
+stm32h7xx_hal_msp.c:798:6:HAL_SDRAM_MspInit	3
+stm32h7xx_hal_msp.c:882:6:HAL_SDRAM_MspDeInit	2
